@@ -1,0 +1,7 @@
+/Users/JIAMIN./Documents/Projects/AD_Project/AD_Cloud_Prototype/01_WepApi/WebApi/out/WebApi
+/Users/JIAMIN./Documents/Projects/AD_Project/AD_Cloud_Prototype/01_WepApi/WebApi/out/appsettings.Development.json
+/Users/JIAMIN./Documents/Projects/AD_Project/AD_Cloud_Prototype/01_WepApi/WebApi/out/appsettings.json
+/Users/JIAMIN./Documents/Projects/AD_Project/AD_Cloud_Prototype/01_WepApi/WebApi/out/WebApi.dll
+/Users/JIAMIN./Documents/Projects/AD_Project/AD_Cloud_Prototype/01_WepApi/WebApi/out/WebApi.deps.json
+/Users/JIAMIN./Documents/Projects/AD_Project/AD_Cloud_Prototype/01_WepApi/WebApi/out/WebApi.runtimeconfig.json
+/Users/JIAMIN./Documents/Projects/AD_Project/AD_Cloud_Prototype/01_WepApi/WebApi/out/WebApi.pdb
